@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm ODG 👋
 
-<!--
-**ODG747/ODG747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer from France, working on **Unreal Engine 5** and **FiveM**.
 
-Here are some ideas to get you started:
+## What I do
+- **FiveM** — custom scripts, bug fixes, optimization (CfxLua, ESX, oxmysql, NUI)
+- **Unreal Engine 5** — gameplay systems in Blueprint, learning C++
+- **Web** — small websites and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+- 🎮 Survival game — inventory & crafting systems (UE5)
+- 👻 PS1-style horror game (UE5)
+- 🚗 Realistic car physics (UE5)
+
+## Tech
+`Lua` `C++` `Blueprint` `HTML/CSS/JS` `SQL`
+
+## Contact
+📩 Open to paid FiveM work — scripts, fixes, optimization.
+🔗 [guns.lol/odg747](https://guns.lol/odg747)
